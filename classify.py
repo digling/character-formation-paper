@@ -1,5 +1,26 @@
 from sinopy import parse_baxter, parse_chinese_morphemes, baxter2ipa
 
+def pcoda(syllable):
+    bx = parse_baxter(syllable)
+    if bx[-2][-1] == 'p':
+        return True
+    return False
+
+
+def tcoda(syllable):
+    bx = parse_baxter(syllable)
+    if bx[-2][-1] == 't':
+        return True
+    return False
+
+
+def qutone(syllable):
+    bx = parse_baxter(syllable)
+    if bx[-1] == 'H':
+        return True
+    return False
+
+
 def sandeng(syllable):
     """Check if a syllable belongs to the third děng.
     """

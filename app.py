@@ -57,7 +57,21 @@ if __name__ == '__main__':
         condition2 = lateral
         cname = 'kl'
         header = ['group', 'mch', 'velars', 'laterals', 'none', 'mixed']
+
+    if 'qu' in argv:
+        condition1 = qutone
+        condition2 = lambda x: False if qutone(x) else True
+        cname = 'qu'
+        header = ['group', 'mch', 'qu-tone', 'other', 'none', 'mixed']
         condition = lambda x: '1' in x and '2' in x
+
+    if 'pt' in argv:
+        condition1 = tcoda
+        condition2 = pcoda
+        cname = 'pt'
+        header = ['group', 'mch', 't-coda', 'p-coda', 'other', 'mixed']
+        condition = lambda x: '1' in x and '2' in x
+
     data = load_data('data/data.tsv')
     G = make_graph(data)
     D = defaultdict(lambda : defaultdict(list))

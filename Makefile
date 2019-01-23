@@ -1,6 +1,20 @@
 dataset:
 	@python create-data.py
 
+
+pt:
+	@python app.py pt
+
+pt-p:
+	pandoc -i output/pt.html --template=templates/default.latex --latex-engine=xelatex -o output/pt.pdf
+
+
+qu:
+	@python app.py qu
+
+qu-p:
+	pandoc -i output/qu.html --template=templates/default.latex --latex-engine=xelatex -o output/qu.pdf
+
 sandeng:
 	@python app.py sandeng
 
