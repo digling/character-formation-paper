@@ -1,6 +1,6 @@
 CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 可	0001	a	𠀀	kě	khaX
-羇	0001	a'	??	jī	kje
+羇	0001	a'	𦌭	jī	kje
 綺	0001	b'	奇	qǐ	khjeX
 踦	0001	c'	奇	yǐ	ngjeX
 柯	0001	d	可	kē	ka
@@ -143,8 +143,8 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 𦝠	0014	a	𦟀		lwa
 蠃	0014	b	𣎆	luǒ	lwaX
 羸	0014	c	𣎆	léi	ljwe
-伽	0015	-	加	jiā	(?)
 迦	0015	-	加	jiā	(?)
+伽	0015	-	加	jiā	(?)
 加	0015	a	力	jiā	kae
 枷	0015	c	加	jiā	kaeH
 珈	0015	d	加	jiā	kae
@@ -252,7 +252,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 霞	0033	k	叚	xiá	hae
 騢	0033	l	叚	xiá	hae
 斝	0034	a	斝	jiǎ	kaeX
-下	0035	a	??	xià	haeX
+下	0035	a	?	xià	haeX
 芐	0035	d	下	hù	huX
 夏	0036	a	夓	xià	haeX
 廈	0036	c	夏	shà	haeX
@@ -302,7 +302,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 摦	0043	m	瓠	huà	hwaeH
 樺	0044	-	華	huà	hwaeH
 花	0044	-	化	huā	xwae
-華	0044	a	??	huá	hwaeH
+華	0044	a	𠌶	huá	hwaeH
 驊	0044	c	?	huá	hwae
 譁	0044	d	𦾓	huá	xwae
 者	0045	a	𣥏	zhě	tsyaeX
@@ -1066,9 +1066,9 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 旃	0150	c	丹	zhān	tsyen
 炭	0151	a	屵	tàn	thanH
 攤	0152	-	難	tān	than
-嘆	0152	a	𪄿	tàn	thanH
+嘆	0152	a	??	tàn	thanH
 歎	0152	c	𪄿	tàn	thanH
-難	0152	d	??	nán	nanH
+難	0152	d	𡎸	nán	nanH
 𪄿	0152	g	??		nanH
 戁	0152	h	難	nǎn	nraenX
 㸐	0152	i	?	rán	nyen
@@ -1106,7 +1106,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 帴	0155	q	戔	sàn	tsjen
 綫	0155	r	戔	xiàn	sjenH
 濺	0155	s	賤	jiàn	tsjenH
-散	0156	a	??	sàn	sanH
+散	0156	a	𢿨	sàn	sanH
 潸	0156	c	𢿱	shān	srean
 霰	0156	d	散	sǎn	senH
 婠	0157	-	官	wān	'weat
@@ -1396,7 +1396,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 緬	0223	d	面	miǎn	mjienX
 臱	0224	a	𦤝	mián	mjien
 櫋	0224	b	?	mián	mjien
-邊	0224	c	??	biān	pen
+邊	0224	c	𦤝	biān	pen
 籩	0224	f	?	biān	pjien
 綿	0225	a	綿	mián	mjien
 緜	0225	b	緜	mián	mjien
@@ -1515,8 +1515,8 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 靦	0244	a	見	tiǎn	thenX
 前	0245	a	??	qián	dzen
 揃	0245	e	𣦃	jiǎn	tsjenX
-湔	0245	f	𣦃	jiān	tsjen
-煎	0245	g	??	jiān	tsjen
+湔	0245	f	??	jiān	tsjen
+煎	0245	g	𣦃	jiān	tsjen
 箭	0245	h	𣦃	jiàn	tsjenH
 翦	0245	i	𣦃	jiǎn	tsjenX
 剪	0245	j	前	jiǎn	tsjenX
@@ -1681,7 +1681,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 邁	0267	d	萬	mài	maejH
 枿	0268	a	?	niè	ngat
 歺	0269	b	𣦵	è	ngat
-歹	0269	c	𣦵	dǎi	ngat
+歹	0269	c	??	dǎi	ngat
 閼	0270	a	於	è	'at
 𦍒	0271	a	?		that
 達	0271	b	羍	dá	that
@@ -1768,8 +1768,8 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 糱	0289	i	辥	niè	ngjet
 櫱	0289	j	辥	niè	ngjet
 設	0290	a	設	shè	syet
-列	0291	a	??	liè	ljet
-冽	0291	b	𠜊	liè	ljet
+列	0291	a	𡿩	liè	ljet
+冽	0291	b	??	liè	ljet
 洌	0291	c	列	liè	ljet
 烈	0291	d	𠛱	liè	ljet
 茢	0291	e	𠛱	liè	ljet
@@ -1966,7 +1966,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 摰	0330	g	?	niè	nget
 槷	0330	h	?	niè	nget
 囈	0330	i	藝	yì	ngjejH
-熱	0330	j	𡎐	rè	nyet
+熱	0330	j	??	rè	nyet
 爇	0330	k	蓺	ruò	nywet
 勢	0330	l	勢	shì	syejH
 暬	0330	m	埶	xiè	sjet
@@ -2224,13 +2224,13 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 寴	0382	q	親	qīn	tshin
 櫬	0382	s	親	chèn	tsrhinH
 信	0384	a	信	xìn	sinH
-申	0385	a	𢑚	shēn	syin
+申	0385	a	??	shēn	syin
 伸	0385	f	申	shēn	syin
 呻	0385	g	申	shēn	syin
 紳	0385	h	申	shēn	syin
 神	0385	j	𢑚	shén	zyin
 𣍃	0385	l	柬		yinH
-電	0385	m	𢑚	diàn	denH
+電	0385	m	??	diàn	denH
 身	0386	a	申	shēn	syin
 𨌈	0386	d	?		den
 隣	0387	-	㷠	lín	fragment)
@@ -2336,7 +2336,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 跌	0402	j	失	diē	det
 迭	0402	k	失	dié	det
 眣	0402	l	失	dié	trhit
-栗	0403	a	𣡼	lì	lit
+栗	0403	a	??	lì	lit
 慄	0403	d	㮚	lì	lit
 瑮	0403	e	㮚	lì	lit
 日	0404	a	日	rì	nyit
@@ -2518,7 +2518,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 犇	0438	d	?	bēn	pwon
 餴	0438	e	奔	fēn	pjun
 鼖	0438	f	卉	fén	bjun
-畚	0439	a	??	běn	pwonX
+畚	0439	a	弁	běn	pwonX
 本	0440	a	本	běn	pwonX
 門	0441	a	門	mén	mwon
 悶	0441	d	門	mèn	mwon
@@ -2947,11 +2947,11 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 鐍	0507	n	矞	jué	kwet
 潏	0507	o	矞	yù	kwet
 瞲	0507	p	?	xù	xwijH
-愛	0508	a	㤅	ài	'ojH
+愛	0508	a	??	ài	'ojH
 曖	0508	b	愛	ài	'ojH
 薆	0508	c	?	ài	'ojH
 僾	0508	d	愛	ài	'ojH
-隶	0509	a	祟	lì	yijH
+隶	0509	a	??	lì	yijH
 逮	0509	c	隶	dǎi	dojH
 曃	0509	e	?	dài	thojH
 棣	0509	f	隶	dì	dejH
@@ -3171,7 +3171,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 笫	0554	f	𠂔	zǐ	tsrijX
 胏	0554	g	?	zǐ	tsrijX
 柹	0554	h	𪩲	shì	dzrijX
-柿	0554	i	𪩲	shì	dzrijX
+柿	0554	i	??	shì	dzrijX
 䪡	0554	j	?	!(䪡)	tsej
 次	0555	a	二	cì	tshijH
 佽	0555	c	次	cì	tshijH
@@ -3353,7 +3353,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 飛	0580	a	飛	fēi	pjɨj
 妃	0581	a	己	fēi	phwojH
 肥	0582		巴	féi	bjɨj
-尾	0583	a	㞑	wěi	mjɨjX
+尾	0583	a	??	wěi	mjɨjX
 娓	0583	c	尾	wěi	mjɨjX
 浘	0583	d	?	wěi	mjɨjX
 𤈦	0583	e	尾		xjwɨjX
@@ -3411,7 +3411,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 緀	0592	i	妻	qī	tshej
 𨹷	0592	j	?		tsejH
 棲	0592	l	妻	qī	sej
-齊	0593	a	??	qí	dzej
+齊	0593	a	亝	qí	dzej
 臍	0593	f	齊	qí	dzej
 蠐	0593	g	?	qí	dzej
 劑	0593	h	亝	jì	tsje
@@ -3421,7 +3421,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 薺	0593	l	齊	jì	dzejX
 穧	0593	m	齊	jì	tsejH
 擠	0593	n	齊	jǐ	tsejX
-濟	0593	o	??	jì	tsejX
+濟	0593	o	亝	jì	tsejX
 躋	0593	p	亝	jī	tsejH
 隮	0593	r	?	jī	tsejH
 霽	0593	s	齊	jì	tsejH
@@ -3770,7 +3770,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 鱏	0646	i	𪉷	xún	zim
 簟	0646	j	𪉷	diàn	demX
 驔	0646	l	𪉷	diàn	demX
-參	0647	a	㐱	cān	tsrhim
+參	0647	a	??	cān	tsrhim
 驂	0647	c	參	cān	tshom
 慘	0647	e	參	cǎn	tshomX
 糝	0647	f	參	sǎn	somX
@@ -3991,7 +3991,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 浥	0683	h	邑	yì	'ip
 唈	0683	i	?	yì	'op
 馽	0684	a	𩢏	zhí	trip
-執	0685	a	??	zhí	tsyip
+執	0685	a	𡙕	zhí	tsyip
 縶	0685	f	𡙕	zhí	trip
 蟄	0685	g	執	zhé	drip
 慹	0685	h	𡙕	zhí	tsyip
@@ -4136,7 +4136,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 繈	0713	c	?	qiǎng	kjangX
 襁	0713	d	強	qiǎng	kjangX
 皀	0714	a	皀	jí	xjang
-鄉	0714	c	𨞰	xiāng	xjangX
+鄉	0714	c	??	xiāng	xjangX
 嚮	0714	i	鄕	xiàng	xjangH
 饗	0714	j	鄕	xiǎng	xjangX
 曏	0714	k	鄉	xiǎng	xjangX
@@ -4147,7 +4147,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 向	0715	a	向	xiàng	xjangH
 餉	0715	e	向	xiǎng	syangH
 享	0716	a	𦎧	xiǎng	xaeng
-亨	0716	b	??	hēng	xjangX
+亨	0716	b	𦎧	hēng	xjangX
 香	0717	a	𪏽	xiāng	xjang
 㼜	0718	-	央	àng	'angH
 央	0718	a	央	yāng	'jang
@@ -5328,7 +5328,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 繩	0892	b	黽	shéng	zying
 灷	0893	a	灷	zhuàn	yingH
 㑞	0893	c	灷	yìng	yingH
-朕	0893	f	??	zhèn	drinX
+朕	0893	f	𦩎	zhèn	drinX
 栚	0893	j	灷	zhèn	drimX
 媵	0893	k	?	yìng	yingH
 賸	0893	l	朕	shèng	yingH
@@ -5442,7 +5442,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 幟	0920	j	戠	zhì	tsyhiH
 識	0920	k	戠	shí	syik
 熾	0920	l	戠	chì	tsyhiH
-食	0921	a	亼	shí	zyik
+食	0921	a	??	shí	zyik
 蝕	0921	d	食	shí	zyik
 飤	0921	e	飤	sì	ziH
 飭	0921	g	飤	chì	trhik
@@ -5542,8 +5542,8 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 災	0940	a	𡿧	zāi	tsoj
 灾	0940	d	𡿧	zāi	tsoj
 再	0941	a	再	zài	tsojH
-彩	0942	a	采	cǎi	tshojX
 采	0942	a	采	cǎi	tshojX
+彩	0942	a	采	cǎi	tshojX
 採	0942	d	采	cǎi	tshojX
 菜	0942	e	采	cài	tshojH
 才	0943	a	才	cái	dzoj
@@ -5582,7 +5582,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 姆	0947	f	母	mǔ	muwX
 拇	0947	g	母	mǔ	muwX
 坶	0947	h	母	mǔ	mjuwk
-每	0947	i	母	měi	mwojX
+每	0947	i	??	měi	mwojX
 梅	0947	l	毎	méi	mwoj
 脢	0947	m	每	méi	mwojH
 鋂	0947	n	每	méi	mwoj
@@ -5748,7 +5748,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 祠	0972	h	司	cí	zi
 詞	0972	j	司	cí	zi
 嗣	0972	k	司	sì	ziH
-思	0973	a	𦥓	sī	soj
+思	0973	a	??	sī	soj
 緦	0973	b	思	sī	si
 葸	0973	c	?	xǐ	siX
 諰	0973	d	思	xǐ	siX
@@ -5954,8 +5954,8 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 肜	1008	a	?	róng	yuwng
 彡	1008	c	彡	shān	yuwng
 彤	1008	e	彡	tóng	dung
-蟲	1009	a	蟲	chóng	drjuwng
 虫	1009	a	虫	chóng	drjuwng
+蟲	1009	a	蟲	chóng	drjuwng
 融	1009	d	蟲	róng	yuwng
 赨	1009	e	蟲	tóng	downg
 𢥞	1009	f	?		downg
@@ -5998,7 +5998,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 竺	1019	f	竹	zhú	towk
 篤	1019	g	竹	dǔ	towk
 育	1020	a	肉	yù	yuwk
-毓	1021	a	??	yù	yuwk
+毓	1021	a	肉	yù	yuwk
 逐	1022	a	豖	zhú	drjuwk
 篴	1022	d	?	dí	dek
 蓫	1022	e	?	chù	trhjuwk
@@ -6069,7 +6069,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 稑	1032	h	坴	lù	ljuwk
 睦	1032	i	坴	mù	mjuwk
 肉	1033	a	肉	ròu	nyuwk
-复	1034	a	畗	fù	bjuwk
+复	1034	a	??	fù	bjuwk
 復	1034	d	𡕨	fù	bjuwk
 輹	1034	g	𡕨	fù	bjuwk
 腹	1034	h	复	fù	pjuwk
@@ -6148,8 +6148,8 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 傮	1053	f	𣍘	zāo	tsaw
 糟	1053	g	𣍘	zāo	tsaw
 遭	1053	h	𣍘	zāo	tsaw
-皂	1054	a	??	zào	dzawX
-皁	1054	b	??	zào	dzawX
+皂	1054	a	𣅼	zào	dzawX
+皁	1054	b	𣅼	zào	dzawX
 老	1055	a	老	lǎo	lawX
 牢	1056	a	牢	láo	law
 保	1057	a	𤓽	bǎo	pawX
@@ -6270,7 +6270,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 韜	1078	g	舀	tāo	thaw
 稻	1078	h	舀	dào	dawX
 蹈	1078	l	舀	dǎo	dawH
-由	1079	a	??	yóu	yuw
+由	1079	a	𠧪	yóu	yuw
 柚	1079	b	由	yòu	yuwH
 油	1079	c	由	yóu	yuw
 鼬	1079	d	由	yòu	yuwH
@@ -6596,7 +6596,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 嗃	1129	x	高	hè	xak
 壕	1129	y	豪	háo	haw
 譹	1129	z	?	háo	haw
-敖	1130	a	??	áo	ngaw
+敖	1130	a	𢾍	áo	ngaw
 遨	1130	c	𢾕	áo	ngaw
 傲	1130	d	敖	ào	ngawH
 嗷	1130	e	敖	áo	ngaw
@@ -7089,7 +7089,7 @@ CHARACTER	KARLGREN	KARLGRENCODE	XIESHENG	PINYIN	MCH
 講	1198	a	冓	jiǎng	kaewngX
 窗	1199	-	囱	chuāng	tsrhaewng
 囱	1199	a	囱	cōng	tsrhaewng
-匆	1199	b	??	cōng	tsrhaewng
+匆	1199	b	囱	cōng	tsrhaewng
 悤	1199	c	囱	cōng	tshuwng
 怱	1199	d	囱	cōng	tshuwng
 聰	1199	f	悤	cōng	tshuwng

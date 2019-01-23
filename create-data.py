@@ -5,7 +5,7 @@ import tqdm
 
 def wikibooks():
 
-    with open('wikibooks.txt') as f:
+    with open('data/wikibooks.txt') as f:
         data = f.readlines()
     out = []
     gsr = {}
@@ -56,7 +56,7 @@ def wikibooks():
                             'Wikibooks2016a')]
                         gsr[char] = [pinyin, reading, karlgren]
 
-    with open('karlgren.tsv', 'w') as f:
+    with open('data/karlgren.tsv', 'w') as f:
         f.write('ID\tCHARACTER\tPINYIN\tDOCULECT\tPHONETIC_CLASS\tKARLGREN_ID\tREADING\tSOURCE\n')
         for i, line in enumerate(out):
             f.write(str(i+1)+'\t'+'\t'.join(line)+'\n')
@@ -65,7 +65,7 @@ def wikibooks():
 
 
 def xiesheng():
-    with open('ids-analysis.txt') as f:
+    with open('data/ids-analysis.txt') as f:
         comps = {}
         ignored = set()
         for line in f:
@@ -123,7 +123,7 @@ if __name__ == '__main__':
     gsr = wikibooks()
     ids = xiesheng()
 
-    with open('data.tsv', 'w') as f:
+    with open('data/data.tsv', 'w') as f:
         f.write('\t'.join(
             [
                 'CHARACTER',
